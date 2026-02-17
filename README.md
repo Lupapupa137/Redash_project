@@ -6,7 +6,7 @@
 
 ---
 
-## 🌍 1. Сегментация клиентов по географии и поведению
+## 1. Сегментация клиентов по географии и поведению
 
 **Ссылка на дашборд**: https://redash.lab.karpov.courses/public/dashboards/VwZunxXDvDXYShlGBHj5RYnBGCUEeNkLywUVVskv?org_slug=default
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 📦 2. Анализ доставки и отмен заказов
+## 2. Анализ доставки и отмен заказов
 
 **Ссылка на дашборд**: https://redash.lab.karpov.courses/public/dashboards/EtsE0pbl1eUlpQBiVJambHIOCNAv0BylORHTZw2V?org_slug=default
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 3. Анализ пользовательской воронки
+## 3. Анализ пользовательской воронки
 
 **Ссылка на дашборд**: https://redash.lab.karpov.courses/public/dashboards/aUa6xiWhgczk7WE7hbv4yEtJFro3XyvnkTir6X4Y?org_slug=default
 
